@@ -1,0 +1,3 @@
+Repo link:
+https://github.com/AdrielHewlett-AshesiStudent/ai-course-lab0
+This lab covered understanding the fundamentals of some machine learning labs that would be helpful in our pursuit of understanding AI technology: they include NumPy, Seaborn, Matplotlib and Pandas. We were also taught to create virtual environments and how to use and set up GitHub, Visual Studio Code and Cursor IDE. I did not do this lab when we first got it; I did lab 1 part A by mistake, which I did not even finish, so I am doing it.
